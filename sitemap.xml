@@ -44,9 +44,6 @@
     <loc>https://www.waynext.club/gallery/</loc>
     <lastmod>2018-07-14T16:19:08+06:00</lastmod>
   </url><url>
-    <loc>https://www.waynext.club/service/</loc>
-    <lastmod>2018-07-14T12:58:14+06:00</lastmod>
-  </url><url>
     <loc>https://www.waynext.club/about/</loc>
     <lastmod>2018-07-12T18:19:33+06:00</lastmod>
   </url><url>
@@ -76,6 +73,9 @@
   </url><url>
     <loc>https://www.waynext.club/tags/install/</loc>
     <lastmod>2018-07-08T12:22:40+06:00</lastmod>
+  </url><url>
+    <loc>https://www.waynext.club/service/</loc>
+    <priority>0</priority>
   </url><url>
     <loc>https://www.waynext.club/categories/</loc>
   </url>
