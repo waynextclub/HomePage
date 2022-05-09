@@ -8,12 +8,19 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 25 Apr 2022 12:54:54 +0600</lastBuildDate><atom:link href="https://www.waynext.club/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>基本模型</title>
+      <title>基础指南</title>
       <link>https://www.waynext.club/portfolio/basicguide/</link>
       <pubDate>Mon, 25 Apr 2022 12:54:54 +0600</pubDate>
       
       <guid>https://www.waynext.club/portfolio/basicguide/</guid>
-      <description>基本指南 指南介绍waynext的各种相关信息</description>
+      <description>基础指南 这个LIB希望收适当的信息作为waynext使用者和贡献者的指南 目前指南主要针对筹备期的社区
+主要包括以下部分
+  waynext的基本目标及实现逻辑 LIB的基本定义 初学者指南 贡献者指南 当前社区的状况及LIB建设规划 目录   基本目标及实现逻辑 waynext.library 希望收集有效的决策支持信息构成数个方案并通过更多使用者带来的测试和问题，逐步优化，形成一些有价值的LIB（信息库）。覆盖主要的路径方向，为使用者带来高效的信息支持。
+目前准备和未来规划 目前筹备中的几个LIB
+  基本指南 如何转码 润相关 学习路线与课程方案 ++   短期规划的主要方向 整合和梳理主要路径的信息 未来的价值方向 希望产生更高效的形式，希望实现
+筹备期 目前LIB处于筹备期，筹备期支持更多方向的探索和尝试，同时注意到内容可能很不完善，希望起到抛砖引玉的作用
+对于格式或者完成度要求很低，更为看重潜力与发展适用性
+只要有一个合适的自圆其说的结构以及符合社区精神的框架即可</description>
     </item>
     
     <item>
